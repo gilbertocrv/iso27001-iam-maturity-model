@@ -58,9 +58,11 @@ Cada camada depende da anterior. Governança sem enforcement técnico é políti
 
 ## Sobre o Projeto
 
-Projeto de estudo e prática, desenvolvido de forma independente. Baseado em normas públicas ISO/IEC 27001:2022 e ISO 27701, com aplicação à LGPD.
+Projeto de estudo e prática desenvolvido de forma independente, baseado nas normas públicas ISO/IEC 27001:2022 e ISO/IEC 27701, com relação aos princípios de proteção de dados da LGPD.
 
-Permite explorar conceitos de maturidade e controles de acesso de forma segura e prática, documentando a evolução do raciocínio de executor para estratégico em Gestão de Acessos e Governança de Identidades.
+O objetivo é explorar, de forma educacional, conceitos de gestão de identidades, controle de acessos e maturidade de processos, utilizando exemplos práticos e avaliações estruturadas.
+
+O material documenta a evolução da análise de controles de acesso sob a perspectiva de governança, risco e conformidade, mantendo caráter técnico e sem referência a ambientes ou processos corporativos específicos.
 
 ---
 
