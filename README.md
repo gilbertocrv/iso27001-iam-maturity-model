@@ -15,7 +15,7 @@ Desenvolvi um formulário prático para avaliar a maturidade de controles de Acc
 | 5.17 | Authentication Information | Autenticação | [Deep Dive](https://gilbertocrv.github.io/authentication-information-maturity-iso27001-5-17-/) |
 | 5.18 | Access Rights | Autorização | [Deep Dive](https://gilbertocrv.github.io/identity-management-maturity-iso27001-5-18/) |
 | 8.2 | Privileged Access Rights | Privilégio | [Deep Dive](https://gilbertocrv.github.io/identity-management-maturity-iso27001-8-2) | 
-| 8.3 | Information Access Restriction | Privilégio | Em breve |
+| 8.3 | Information Access Restriction | Privilégio | [Deep Dive](https://gilbertocrv.github.io/identity-management-maturity-iso27001-8-3) |
 | 8.5 | Secure Authentication | Autenticação | Em breve |
 
 ---
