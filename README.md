@@ -1,6 +1,6 @@
 # Modelo de Maturidade em Gestão de Acessos (ISO 27001 + LGPD)
 
-🔗 **Acesse o projeto:** https://gilbertocrv.github.io/iam-maturity-iso27001/
+🔗 **Acesse o projeto:** [https://gilbertocrv.github.io/iam-maturity-iso27001/](https://gilbertocrv.github.io/iso27001-iam-maturity-model/)
 
 Desenvolvi um formulário prático para avaliar a maturidade de controles de Access Management, baseado nas normas públicas ISO/IEC 27001:2022 e ISO 27701.
 
